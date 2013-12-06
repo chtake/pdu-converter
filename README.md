@@ -9,4 +9,5 @@ Sending sms may cause additional costs.
 Example Command
 =============
 AT+CMGW=29
+
 0791947106004034040d919471064015120000312160807183040CC8309BFD65DDF7236D95
